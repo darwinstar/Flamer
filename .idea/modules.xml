@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AAALibV4/AAALibV4.iml" filepath="$PROJECT_DIR$/AAALibV4/AAALibV4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacebookSDK/FacebookSDK.iml" filepath="$PROJECT_DIR$/FacebookSDK/FacebookSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flamer_NoFacebook/Flamer_NoFacebook.iml" filepath="$PROJECT_DIR$/Flamer_NoFacebook/Flamer_NoFacebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RangeBar/RangeBar.iml" filepath="$PROJECT_DIR$/RangeBar/RangeBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asd - Copy.iml" filepath="$PROJECT_DIR$/asd - Copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib_new/google-play-services_lib_new.iml" filepath="$PROJECT_DIR$/google-play-services_lib_new/google-play-services_lib_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slide_menu_library/slide_menu_library.iml" filepath="$PROJECT_DIR$/slide_menu_library/slide_menu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomimage/zoomimage.iml" filepath="$PROJECT_DIR$/zoomimage/zoomimage.iml" />
+    </modules>
+  </component>
+</project>
+

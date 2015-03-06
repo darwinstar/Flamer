@@ -1,0 +1,16 @@
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\classes\debug
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-470c1f1a0d5df8abae3d6add65557c6c976d6477.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-aeed7ec91ff251331f9e421a1dc47a7820d42ada.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-e6169bf5282380ae699bf8dcd32d0e2eaef3f389.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-8abf328cbc1adc8699169a6507c64883bcba6b8b.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-802d628418888d69fb5e9b48e9f879a754501b19.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\picasso-2.1.1-997e6622e7984053b72f309906ae363be4705683.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\commons-codec-1.4-d033d0fbfeb32266a91f52e5517f33293da74f04.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\FlurryAnalytics_3.3.0-51ec49dc8b2dde720a949009cc0ce6fac39b3878.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\android-query.0.25.10-df3b336e21177bde2999604936a1a04e8512e837.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\gson-2.2.2-f92b1e8f9009910a62de0a959df4a98ba46e65d7.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-0d11058ba2616ada6fca1419c6d0e3d2d50b8d3b.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-fbca573704026bc4631928d35407d567d9d97546.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\android-support-v4-d0fedd63aa00274695371e8fac2fa88570ee4713.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\joda-time-2.1-e73940300f6e28cb71a14f8aa7903b8fdaf2e3ad.jar
+C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\google-play-services-e677815d88648a033ab4a0b98b3a7f5da4782d3d.jar

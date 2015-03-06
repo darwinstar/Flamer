@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\zoomimage\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f88d32b85ab1fcdf9a283421aa6e664bdf4ed76">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-8abf328cbc1adc8699169a6507c64883bcba6b8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\gson-2.2.2-f92b1e8f9009910a62de0a959df4a98ba46e65d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\libs\android-query.0.25.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60258ce3d38031f3e2ab3afeb38c65f3516fe5a">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\android-query.0.25.10-df3b336e21177bde2999604936a1a04e8512e837.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\google-play-services_lib_new\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e52e22c26b11f6a68bac4a36a526df79e964a3ac">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-aeed7ec91ff251331f9e421a1dc47a7820d42ada.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\RangeBar\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d271a1fcdea09718e71c0bef663679a2382c4cd0">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-e6169bf5282380ae699bf8dcd32d0e2eaef3f389.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\libs\joda-time-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f79e353ef77da6710e1f10d34fc3698eaaacbca">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\joda-time-2.1-e73940300f6e28cb71a14f8aa7903b8fdaf2e3ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\libs\commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\commons-codec-1.4-d033d0fbfeb32266a91f52e5517f33293da74f04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\slide_menu_library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6bf3e522bf31fc2376651cf11ac6ec68b1608360">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-802d628418888d69fb5e9b48e9f879a754501b19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\libs\FlurryAnalytics_3.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d24d6cee64bfc688a6a306a6de04dee63b86801">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\FlurryAnalytics_3.3.0-51ec49dc8b2dde720a949009cc0ce6fac39b3878.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\FacebookSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="232cb6e3124fdb57541524afead84d34f7a192d2">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-0d11058ba2616ada6fca1419c6d0e3d2d50b8d3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\AAALibV4\unspecified\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\android-support-v4-d0fedd63aa00274695371e8fac2fa88570ee4713.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\google-play-services_lib_new\unspecified\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\google-play-services-e677815d88648a033ab4a0b98b3a7f5da4782d3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\actionbarsherlock\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06ca85175e75f63235932974d86593fc4305441b">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-fbca573704026bc4631928d35407d567d9d97546.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\exploded-aar\asd - Copy\AAALibV4\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="131b885b6acb81324978b9124e20b90480d804cb">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\classes-470c1f1a0d5df8abae3d6add65557c6c976d6477.jar" />
+    </item>
+    <item
+        jar="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="C:\Users\Giedrius\Desktop\Flamer\asd - Copy\Flamer_NoFacebook\build\intermediates\pre-dexed\debug\picasso-2.1.1-997e6622e7984053b72f309906ae363be4705683.jar" />
+    </item>
+
+</items>

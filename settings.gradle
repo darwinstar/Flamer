@@ -1,0 +1,8 @@
+include ':Flamer_NoFacebook'
+include ':RangeBar'
+include ':slide_menu_library'
+include ':AAALibV4'
+include ':zoomimage'
+include ':FacebookSDK'
+include ':google-play-services_lib_new'
+include ':actionbarsherlock'
